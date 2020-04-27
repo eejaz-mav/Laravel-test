@@ -1,0 +1,22 @@
+Working on facebook page post publishing task using Graph API
+
+
+1) Craete Git repo
+2) Create larvel project
+3) FB SDK implimentation
+4) Make API
+5) Test with post-man
+6) Create react project
+7) Setup with context api
+8) Make a UI for post
+9) Call the Lara API
+10) 
+
+
+
+testervnr@gmail.com
+welcome#243
+
+your task is to create a UI to do publishing(post manager in App) using the Graph API
+
+So User can select Pages and add content and image/video (take public url) 
